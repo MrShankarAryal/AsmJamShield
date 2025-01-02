@@ -37,7 +37,7 @@ A professional-grade network Jammer monitoring system written in x86_64 Assembly
 ## Architecture
 
 ```
-SecureNetMonitor/
+AsmJamShield/
 ├── src/
 │   ├── core/          # Core system components
 │   ├── analysis/      # Packet analysis engine
@@ -54,11 +54,10 @@ SecureNetMonitor/
 
 ## Documentation
 
-- [Installation Guide](docs/INSTALLATION.md)
-- [API Documentation](docs/api/analysis.md)
-- [Configuration Guide](docs/config/security.conf)
-- [Contributing Guidelines](docs/CONTRIBUTING.md)
-- [Security Policy](docs/SECURITY.md)
+- [API Documentation](api/analysis.md)
+- [Configuration Guide](AsmJamShield/config/security.conf)
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Security Policy](SECURITY.md)
 
 ## Performance Metrics
 
@@ -169,7 +168,7 @@ Testing results are logged in `tests/results/`.
 ## Contributing
 We welcome contributions to SecureNetMonitor.
 
-1. Review  [Contributing Guidelines](docs/CONTRIBUTING.md)
+1. Review  [Contributing Guidelines](CONTRIBUTING.md)
 2. Fork repository
 3. Create feature branch
 4. Submit pull request
@@ -178,7 +177,7 @@ We welcome contributions to SecureNetMonitor.
 ---
 
 ## Security
-Your security is our priority. Please report vulnerabilities by following the process outlined in [SECURITY](docs/SECURITY.md). Sensitive issues can be communicated directly via email.
+Your security is our priority. Please report vulnerabilities by following the process outlined in [SECURITY](SECURITY.md). Sensitive issues can be communicated directly via email.
 
 ---
 
