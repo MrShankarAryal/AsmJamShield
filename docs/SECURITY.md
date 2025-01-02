@@ -2,8 +2,7 @@
 
 ## Reporting Vulnerabilities
 
-Report security issues to security@example.com
-
+Report security issues to mr.aryalcode@gmail.com
 ## Security Features
 
 1. AES-256 encryption
