@@ -55,8 +55,8 @@ SecureNetMonitor/
 ## Documentation
 
 - [Installation Guide](docs/INSTALLATION.md)
-- [API Documentation](docs/api/)
-- [Configuration Guide](docs/CONFIG.md)
+- [API Documentation](docs/api/analysis.md)
+- [Configuration Guide](docs/config/security.conf)
 - [Contributing Guidelines](docs/CONTRIBUTING.md)
 - [Security Policy](docs/SECURITY.md)
 
@@ -169,7 +169,7 @@ Testing results are logged in `tests/results/`.
 ## Contributing
 We welcome contributions to SecureNetMonitor.
 
-1. Review [CONTRIBUTING.md](docs/CONTRIBUTING.md)
+1. Review  [Contributing Guidelines](docs/CONTRIBUTING.md)
 2. Fork repository
 3. Create feature branch
 4. Submit pull request
@@ -178,7 +178,7 @@ We welcome contributions to SecureNetMonitor.
 ---
 
 ## Security
-Your security is our priority. Please report vulnerabilities by following the process outlined in [SECURITY.md](docs/SECURITY.md). Sensitive issues can be communicated directly via email.
+Your security is our priority. Please report vulnerabilities by following the process outlined in [SECURITY](docs/SECURITY.md). Sensitive issues can be communicated directly via email.
 
 ---
 
